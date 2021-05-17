@@ -11,8 +11,7 @@ source_contact_type: general
 source_phone: +1 555-555-5555
 source_email: info@example.com
 source_catalog: data.gov
-profile_pic: >-
-  https://s3.amazonaws.com/bsp-ocsit-prod-east-appdata/datagov/wordpress/2017/08/MOA.png
+profile_pic: 'https://directory.dayda.org/assets/img/entities/municipality-of-anchorage.png'
 favicon: /assets/img/favicon.png
 url: 'http://municipality-of-anchorage.dayda.org'
 encoding: utf-8
